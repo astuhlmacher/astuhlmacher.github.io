@@ -3,21 +3,12 @@ main:
   - title: "Home"
     url: /
 
-  #- title: "Research"
-  #  url: /research_summary/
-
   - title: "Publications"
     url: /publications/
  
   - title: "Teaching"
     url: /teaching/    
-
-  #-title: "Students and Postdocs"
-  # url: /XXX/
-           
-  #- title: "News"
-  #  url: /news/
-    
+   
   - title: "CV"
     url: https://astuhlmacher.github.io/files/Stuhlmacher_CV.pdf
     
