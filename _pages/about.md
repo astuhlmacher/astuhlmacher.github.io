@@ -18,5 +18,5 @@ My research explores optimizing and controlling distributed energy resources in 
 
 
 ## Prospective Students
-I am looking for PhD students to join my research group who are passionate about power systems and integrating distributed energy resources (such as distributed generation, storage, and flexible loads) into the grid. If you are interested in working with me, please send me an email to annastu at mtu.edu with the subject line 'Prospective PhD Student'. In the email, include your CV and describe your research interests and previous experience.
+I am looking for PhD students to join my research group who are passionate about power systems and integrating distributed energy resources (such as distributed generation, storage, and flexible loads) into the grid. If you are interested in working with me, please send me an email to annastu at mtu.edu with the subject line 'Prospective PhD Student'. In the email, include your CV and describe your research interests and previous experience. [Click here for more information.](/files/Stuhlmacher-ResearchFlyer.pdf)
 
