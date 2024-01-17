@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -108,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@AnnaStuhlmacher"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -180,7 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  students:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -226,23 +224,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _students
   - scope:
       path: ""
-      type: portfolio
+      type: students
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:

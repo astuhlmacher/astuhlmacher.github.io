@@ -7,6 +7,10 @@ author_profile: true
 
 ## Michigan Tech
 
+### EE 5232: Power System Optimization
+  * Spring 2024
+  * Course Summary: An overview of electric power system markets and optimization methods used to solve planning and operational problems. Covers fundamentals of power system economics, organization of electricity markets, and common power system optimization formulations, including optimal power flow, economic dispatch, and unit commitment. Recent advances in convex relaxations and approximations of the optimal power flow problem will be highlighted. Current challenges and issues of actual electricity markets will be discussed, such as the integration of renewable energy resources and demand response into markets.
+
 ### EE 3120: Electrical Energy Systems
   * Fall 2023
   * Course Summary: An overview of the generation and utilization of electrical energy. Covers three-phase circuits, transformers, photovoltaics, batteries, electromechanical energy conversion, and an overview of electric power systems, including economic issues.

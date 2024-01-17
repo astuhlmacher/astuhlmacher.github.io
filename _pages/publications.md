@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## 2024
 
-* A. Stuhlmacher, J. L. Mathieu, and P. Seiler, "Optimizing Dual-Axis Solar Panel Operation in an Agrivoltaic System and Implications for Power Systems", In: Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS). Waikiki, Hawaii, January 2024.   
+* A. Stuhlmacher, J. L. Mathieu, and P. Seiler, "Optimizing Dual-Axis Solar Panel Operation in an Agrivoltaic System and Implications for Power Systems", In: Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS). Waikiki, Hawaii, January 2024. DOI: [10125/106735](https://hdl.handle.net/10125/106735).
  
     <details>
 
@@ -23,7 +23,17 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 * A. Stuhlmacher, S. Guikema, and J. L. Mathieu, "Assessing Network Resilience under an Optimal Water Pumping Control Strategy to Provide Frequency Regulation", In: (Review).
 
 
-* C. Ten, A. Stuhlmacher, Y. Tang, and L. Dilworth, "Operational Planning for Emerging Distribution Systems: A Unique Perspective on Grid  Expansion", In: (Review).
+* A. Stuhlmacher, C. Ten, L. Dilworth, and Y. Tang, "Operational Planning for Emerging Distribution Systems: A Unique Perspective on Grid  Expansion", In: Foundations and Trends&reg; in Electric Energy Systems, vol. 7, no. 2, pp. 63-164, 2023. DOI: [10.1561/3100000033](http://dx.doi.org/10.1561/3100000033).
+    <details>
+
+    <summary> <em>Abstract</em></summary>
+    The electrical grid has undergone significant transformations, which have had a profound impact on its distribution system development and expansion. These changes have been primarily driven by changing load profiles, distributed generation sources, and increasingly extreme weather events. Advancements in sensor and communication technologies have played a pivotal role in addressing and adapting to these changes. These changes have also led to an increased focus on reliability and resilience in planning, with priority placed on ensuring robust grid connectivity and flexibility.
+    
+    Three decades ago, power distribution systems were primarily radial with unidirectional power flow. Today's electrical distribution systems have distributed energy resources, leading to bidirectional power flow. The utility's geographic information system network, advanced metering infrastructure, and other technologies are leveraged to allow feeders and distributed energy resources to be interconnected. This has facilitated the integration of the electric grid with networked microgrids, which has improved the overall resilience and efficiency of the distribution system. 
+    
+    While there have been notable improvements in grid planning, the power grid remains vulnerable to high-impact, low-frequency events caused by climate change, such as hurricanes and tornadoes. This monograph outlines potential solutions for addressing future electric grid issues, including transformer overloading due to electric vehicles, optimization challenges, advanced feeder reconfiguration, and contingency planning for extreme events. The proposed approaches focus on the implementation and operation of new technologies, such as renewable energy sources, batteries, flexible loads, and advanced sensors, that have the potential to transform distribution network planning and operation. From traditional methods to innovative networked microgrids within existing infrastructure and non-wire alternative strategies, this monograph provides a comprehensive overview of stateof- the-art strategies for future problems.
+
+     </details>
 
 * A. Stuhlmacher, "Optimal Scheduling and Control of Uncertain Coupled Power-Water Distribution Networks". PhD Thesis. University of Michigan. May 2023. DOI: [10.7302/7426](https://dx.doi.org/10.7302/7426).  
 
