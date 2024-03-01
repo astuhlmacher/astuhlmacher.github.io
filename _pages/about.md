@@ -16,7 +16,10 @@ Prior to joining Michigan Tech, I received my Ph.D. and M.S. degrees in Electric
 
 My research explores optimizing and controlling distributed energy resources in power systems to provide flexibility. Flexibility is important in the transition to sustainable energy systems. I am advancing this work by developing uncertainty-aware optimization frameworks, integrating network resiliency and tractable, distributed algorithms into operational planning, and emphasizing energy justice goals. I am particularly interested in modeling and optimizing the inherent flexibility and uncertainty propagation between power systems and other infrastructure systems, such as drinking water and agricultural systems.
 
+## Looking for research experience?
+If you are a current undergraduate or graduate student at Michigan Tech interested in getting involved in research, please reach out! 
 
-## Prospective Students
-I am looking for PhD students to join my research group who are passionate about power systems and integrating distributed energy resources (such as distributed generation, storage, and flexible loads) into the grid. If you are interested in working with me, please send me an email to annastu at mtu.edu with the subject line 'Prospective PhD Student'. In the email, include your CV and describe your research interests and previous experience. [Click here for more information.](/files/Stuhlmacher-ResearchFlyer.pdf)
+## Prospective Graduate Students
+I am not currently looking for Ph.D. students to join my research group for the 24-25 academic year. I will update my page when this changes.
+
 
