@@ -20,6 +20,9 @@ My research explores optimizing and controlling distributed energy resources in 
 If you are a current undergraduate or graduate student at Michigan Tech interested in getting involved in research, please reach out! 
 
 ## Prospective Graduate Students
-I am not currently looking for Ph.D. students to join my research group for the 24-25 academic year. I will update my page when this changes.
+I am looking for PhD students to join my research group who are interested in the power grid with strong math and coding (e.g., Julia, Python, and/or Matlab) backgrounds. If you are interested in working with me, please send an email to annastu at mtu.edu with the subject line 'Prospective PhD Student'. In the email, include your CV and describe your research interests and previous experience.
+
+## About Michigan Tech
+Michigan Tech is located in Houghton, Michigan. Houghton is a small town in the upper peninsula of Michigan with year-round outdoor recreation opportunities. Michigan Tech has a longstanding power systems program, with strong connections to utility companies and industry. A wide range of power system courses are available. For information on the PhD program at Michigan Tech, click <a href="https://www.mtu.edu/gradschool/prospective/" target="_blank">here</a>.
 
 
