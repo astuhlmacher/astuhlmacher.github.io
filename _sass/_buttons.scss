@@ -150,4 +150,37 @@
   &--small {
     font-size: $type-size-7;
   }
+
+  /* research page buttons */
+  &--research {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.3em 0.75em;
+    font-size: $type-size-button;
+    color: $link-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: $link-color !important;
+      border: none;
+      outline: none;
+    }
+  }
+
+    /* Active state for research buttons */
+  &--research-active {
+    background-color: $link-color !important; /* Slightly darker background */
+    color: #fff; /* Text color for active state */
+    border: none;
+    outline: none;
+  }
+
 }
+
+
+

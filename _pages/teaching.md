@@ -8,12 +8,12 @@ author_profile: true
 ## Michigan Tech
 
 ### EE 4800/5900: Distributed Energy Resources
-  * Spring 2025
+  * TBD
   * Course Summary: Distributed Energy Resources (DERs) are becoming increasingly more common in power distribution systems. DERs are controllable, small-scale resources such as renewable energy generation, energy storage, and flexible loads. This course presents an overview of DERs and their integration into the electric power grid. Topics covered include the technological and policy aspects associated with DER integration as well as interconnection challenges and solutions. 
 
 
 ### EE 3120: Electrical Energy Systems
-  * Fall 2023, Fall 2024
+  * Fall 2023, Fall 2024, Spring 2025
   * Course Summary: An overview of the generation and utilization of electrical energy. Covers three-phase circuits, transformers, photovoltaics, batteries, electromechanical energy conversion, and an overview of electric power systems, including economic issues.  
 
 ### EE 5232: Power System Optimization
