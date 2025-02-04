@@ -3,14 +3,50 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-include_scripts: ["/assets/js/toggleDiv.js"]
+include_scripts: ["/assets/js/toggleDiv.js", "/assets/js/copy_button.js"]
 ---
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=usoAHLIAAAAJ&hl" target="_blank">my Google Scholar profile</a>. The PDF files linked on this page are shared in accordance with the copyright policies of the journals and conferences. These PDFs may differ from the hyperlinked official published versions, including variations in formatting and content. 
 
 # 2025
+**A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Asessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems (Accepted), 2025.**
+<div class="button-group-StuhlmacherTPWRS2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherTPWRS2025','abstractButton-StuhlmacherTPWRS2025')">Abstract</button>
+    <button id="citationButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherTPWRS2025', 'citationButton-StuhlmacherTPWRS2025')">Citation</button>
+    <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-HICSS-2025-WDN_Flexibility_Capacity.pdf" target="_blank">PDF</a>-->
+    <!--<a class="btn btn--research" target="_blank" href="https://hdl.handle.net/10125/109192">Link</a>-->
+</div>
 
-**A. Stuhlmacher and J. L. Mathieu,  "Demand Response Potential of Drinking Water Distribution Networks", In: Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS). Waikoloa, Hawaii, January 2025.**
+<div id="abstract-StuhlmacherTPWRS2025" style="display:none">
+    Pumps in drinking water distribution networks can be operated as flexible, controllable loads to help support the electric power grid, e.g., by providing frequency regulation. However, departures from conventional water network operation should not degrade the ability of the water and power networks to respond to high impact low frequency events. In this paper, we evaluate the resilience of water and power distribution networks surrounding a storm-induced power outage given an optimal pumping strategy that minimizes electricity costs and is capable of offering frequency regulation. The water network resilience under optimal water pumping strategies is compared with its resilience under a conventional rule-based water pumping strategy. In a case study, we consider an extreme wind event that causes power outages in the power distribution network impacting pumps in the water network. We found that the optimal control strategies are significantly less expensive than the traditional rule-based strategy but the water tanks levels are lower within the optimal pumping strategies, potentially reducing water service availability during long power outages. However, we also observed that the tank levels remain further from their limits when the optimal pumping strategy provides frequency regulation in addition to minimizing electricity costs, resulting in improved resilience metrics.
+</div>
+
+<div id="citation-StuhlmacherTPWRS2025" style="display:none">
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherTPWRS2025" >
+
+```bibtex
+@article{StuhlmacherTPWRS2025,
+    author = {A. Stuhlmacher, S. Guikema, and J. L. Mathieu},
+    title = {Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation},
+    journal = {IEEE Transactions on Power Systems},
+    year = {2025}
+}
+```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherTPWRS2025')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+**A. Stuhlmacher and J. L. Mathieu,  "Demand Response Potential of Drinking Water Distribution Networks", In: Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS). Waikoloa, Hawaii, January, 2025.**
 <center>
 <em> Best paper award for the Electric Energy Systems Track </em>
 </center>
@@ -27,7 +63,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </div>
 
 <div id="citation-StuhlmacherHICSS2025" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherHICSS2025" >
 
 ```bibtex
 @inproceedings{StuhlmacherHICSS2025,
@@ -38,7 +76,21 @@ Bibtex data:
     address = {Waikoloa, Hawaii}
 }
 ```
+
 </div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherHICSS2025')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+
+
+
 
 # 2024
 
@@ -56,7 +108,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherHICSS2024" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherHICSS2024" >
 
 ```bibtex
 @inproceedings{StuhlmacherHICSS2024,
@@ -68,7 +122,19 @@ Bibtex data:
     month = {January}
 }
 ```
+
 </div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherHICSS2024')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+
 
 # 2023
 
@@ -86,7 +152,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherFnT2023" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherFnT2023" >
 
 ```bibtex
 @inproceedings{StuhlmacherFnT2023,
@@ -99,6 +167,16 @@ Bibtex data:
     year = {2023}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherFnT2023')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
 **A. Stuhlmacher, "Optimal Scheduling and Control of Uncertain Coupled Power-Water Distribution Networks". PhD Thesis. University of Michigan. May 2023.**
@@ -115,7 +193,9 @@ Bibtex data:
 </div>
 
 <div id="citation-Stuhlmacher2023" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-Stuhlmacher2023" >
 
 ```bibtex
 @inproceedings{Stuhlmacher2023,
@@ -126,6 +206,16 @@ Bibtex data:
     month = {May}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-Stuhlmacher2023')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
 # 2022
@@ -144,7 +234,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherPSCC2022" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherPSCC2022" >
 
 ```bibtex
 @article{StuhlmacherPSCC2022,
@@ -158,6 +250,16 @@ Bibtex data:
     address = {Porto, Portugal}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherPSCC2022')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
 
@@ -176,7 +278,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherIREP2022" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherIREP2022" >
 
 ```bibtex
 @inproceedings{StuhlmacherIREP2022,
@@ -188,6 +292,16 @@ Bibtex data:
     month = {August}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherIREP2022')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
 # 2021
@@ -207,7 +321,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherCDC2023" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherCDC2023" >
 
 ```bibtex
 @inproceedings{StuhlmacherCDC2023,
@@ -219,6 +335,16 @@ Bibtex data:
     month = {December}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherCDC2023')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
 
@@ -239,7 +365,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherIEEE2020" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherIEEE2020" >
 
 ```bibtex
 @article{StuhlmacherIEEE2020,
@@ -252,6 +380,16 @@ Bibtex data:
     year = {2020}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherIEEE2020')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
 
@@ -271,7 +409,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherPSCC2020" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherPSCC2020" >
 
 ```bibtex
 @article{StuhlmacherPSCC2020,
@@ -284,6 +424,16 @@ Bibtex data:
     month = {June}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherPSCC2020')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
 
@@ -304,7 +454,9 @@ Bibtex data:
 </div>
 
 <div id="citation-StuhlmacherNAPS2019" style="display:none">
-Bibtex data:
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherNAPS2019" >
 
 ```bibtex
 @inproceedings{StuhlmacherNAPS2019,
@@ -316,5 +468,15 @@ Bibtex data:
     month = {October}
 }
 ```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherNAPS2019')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
 </div>
 
