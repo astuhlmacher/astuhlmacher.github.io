@@ -9,7 +9,7 @@ include_scripts: ["/assets/js/toggleDiv.js", "/assets/js/copy_button.js"]
 You can also find my articles on <a href="https://scholar.google.com/citations?user=usoAHLIAAAAJ&hl" target="_blank">my Google Scholar profile</a>. The PDF files linked on this page are shared in accordance with the copyright policies of the journals and conferences. These PDFs may differ from the hyperlinked official published versions, including variations in formatting and content. 
 
 # 2025
-**A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Asessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems (Accepted), 2025.**
+**A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems (Accepted), 2025.**
 <div class="button-group-StuhlmacherTPWRS2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherTPWRS2025','abstractButton-StuhlmacherTPWRS2025')">Abstract</button>
     <button id="citationButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherTPWRS2025', 'citationButton-StuhlmacherTPWRS2025')">Citation</button>
