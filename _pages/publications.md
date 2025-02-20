@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <button id="abstractButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherTPWRS2025','abstractButton-StuhlmacherTPWRS2025')">Abstract</button>
     <button id="citationButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherTPWRS2025', 'citationButton-StuhlmacherTPWRS2025')">Citation</button>
     <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-HICSS-2025-WDN_Flexibility_Capacity.pdf" target="_blank">PDF</a>-->
-    <!--<a class="btn btn--research" target="_blank" href="https://hdl.handle.net/10125/109192">Link</a>-->
+    <a class="btn btn--research" target="_blank" href="https://ieeexplore.ieee.org/document/10876764">Link</a>
 </div>
 
 <div id="abstract-StuhlmacherTPWRS2025" style="display:none">
