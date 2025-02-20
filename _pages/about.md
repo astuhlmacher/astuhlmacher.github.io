@@ -19,8 +19,7 @@ Prior to joining Michigan Tech, I received my Ph.D. and M.S. degrees in Electric
 * Critical Infrastructure Systems
 * Agrivoltaics
 
-My research explores optimizing and controlling distributed energy resources in power systems to provide flexibility. Flexibility is important in the transition to sustainable energy systems. I am advancing this work by developing uncertainty-aware optimization frameworks, integrating network resiliency and tractable, distributed algorithms into operational planning, and emphasizing energy justice goals. I am particularly interested in modeling and optimizing the inherent flexibility and uncertainty propagation between power systems and other infrastructure systems, such as drinking water and agricultural systems.
-
+My research explores the optimization of uncertain distributed energy resources (DERs) and the coordination of the power grid with other infrastructure systems and sectors. DERs—such as distributed generation, storage, and flexible loads—can be optimized and controlled to provide flexibility within the electric power grid. I am particularly interested in modeling and optimizing the inherent flexibility and uncertainty propagation between power systems and other infrastructure systems, such as drinking water, wastewater treatment, and agricultural systems. 
 ## Looking for undergraduate research experience?
 If you are a current undergraduate student at Michigan Tech interested in getting involved in research, please reach out! 
 

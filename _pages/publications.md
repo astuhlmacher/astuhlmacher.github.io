@@ -46,7 +46,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     
 </div>
 
-**A. Stuhlmacher and J. L. Mathieu,  "Demand Response Potential of Drinking Water Distribution Networks", In: Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS). Waikoloa, Hawaii, January, 2025.**
+**A. Stuhlmacher and J. L. Mathieu,  "Demand Response Potential of Drinking Water Distribution Networks", In: Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS). Waikoloa, Hawaii, January 2025.**
 <center>
 <em> Best paper award for the Electric Energy Systems Track </em>
 </center>
