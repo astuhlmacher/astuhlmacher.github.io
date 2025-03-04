@@ -9,6 +9,85 @@ include_scripts: ["/assets/js/toggleDiv.js", "/assets/js/copy_button.js"]
 You can also find my articles on <a href="https://scholar.google.com/citations?user=usoAHLIAAAAJ&hl" target="_blank">my Google Scholar profile</a>. The PDF files linked on this page are shared in accordance with the copyright policies of the journals and conferences. These PDFs may differ from the hyperlinked official published versions, including variations in formatting and content. 
 
 # 2025
+
+**A. Stuhlmacher, A. Kody, and M. Wu, "Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility", In: Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control, Sorrento, Italy, June 2025 (Under review).**
+<div class="button-group-StuhlmacherIREP2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-StuhlmacherIREP2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherIREP2025','abstractButton-StuhlmacherIREP2025')">Abstract</button>
+    <button id="citationButton-StuhlmacherIREP2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherIREP2025', 'citationButton-StuhlmacherIREP2025')">Citation</button>
+    <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-Seiler-HICSS-2024-Optimal-Agrivoltaics-Operation.pdf" target="_blank">PDF</a>-->
+    <a class="btn btn--research" target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043307">Preprint Link</a>
+</div>
+
+
+<div id="abstract-StuhlmacherIREP2025" style="display:none">
+    <p>Wastewater treatment plants are energy-intensive loads with operational flexibility, which has motivated interest in how these plants can support power grid operation through demand flexibility. Since electricity is often the largest single operating cost for wastewater treatment plants, leveraging demand flexibility could offer significant financial benefits.  One approach to reduce and shift the wastewater treatment plant's demand is through the use of biogas, a by-product of anaerobic digestion within the wastewater treatment process. Biogas (composed primarily of methane and carbon dioxide) is a renewable fuel that can be used to produce electricity to offset the plant's demand from the grid. However, many wastewater treatment plants currently flare biogas. The goal of this paper is to determine the optimal use of an on-site biogas storage tank and generator to minimize the costs of a wastewater treatment plant participating in the frequency regulation market. To do this, we formulate the wastewater treatment plant optimization problem subject to biogas and frequency regulation constraints while managing biogas production uncertainty. We solve for the biogas generator schedule and frequency regulation capacity to minimize operational costs. In a case study using data from a California wastewater treatment plant, we demonstrate how our approach can exploit electricity rate structures to reduce electricity costs and  effectively participate in the frequency regulation market. 
+</div>
+
+<div id="citation-StuhlmacherIREP2025" style="display:none">
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherIREP2025" >
+
+```bibtex
+@article{StuhlmacherIREP2025,
+    author = {A. Stuhlmacher, A. Kody, and M. Wu},
+    title = {Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility},
+    journal = {Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control},
+    year = {2025},
+    month = {June},
+    address = {Sorrento, Italy}
+}
+```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherIREP2025')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+
+**A.N. Sakib and A. Stuhlmacher,  "Leveraging Drinking Water Pumps as Flexible Loads Using Input Convex Neural Networks", In: Proceedings of the IEEE Power and Energy Society General Meeting (PES GM), Austin, Texas, July 2025 (Accepted).**
+<div class="button-group-SakibPESGM2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('abstract-SakibPESGM2025','abstractButton-SakibPESGM2025')">Abstract</button>
+    <button id="citationButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('citation-SakibPESGM2025', 'citationButton-SakibPESGM2025')">Citation</button>
+    <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-HICSS-2025-WDN_Flexibility_Capacity.pdf" target="_blank">PDF</a>-->
+    <!--<a class="btn btn--research" target="_blank" href="https://ieeexplore.ieee.org/document/10876764">Link</a>-->
+</div>
+
+<div id="abstract-SakibPESGM2025" style="display:none">
+    Drinking water distribution networks can be operated as flexible loads within the electric power grid due to their substantial pumping demands and water storage capabilities. Optimizing the flexible operation of a water distribution network poses significant challenges due to the complex physical laws within the network, where the hydraulic head difference equations for pipes and pumps are nonconvex. Standard nonconvex optimization solvers often fail to provide globally optimal solutions and the time required for computation can be prohibitively large. To resolve these issues, we present an optimization approach that accurately approximates the nonconvex constraints using input convex neural networks (ICNNs). This method converts the mixed-integer nonconvex optimization problem into a mixed-integer linear program, improving computational efficiency and scalability while maintaining the optimization problem's intuitive structure. In two case studies, we compare the ICNN-aided approach with the original nonconvex problem and found that the ICNN-aided approach outperforms the nonconvex solver in terms of computational time and optimality.
+</div>
+
+<div id="citation-SakibPESGM2025" style="display:none">
+<p>Bibtex data:</p>
+       
+<div id="bibtex-SakibPESGM2025" >
+
+```bibtex
+@inproceedings{SakibPESGM2025,
+    author = {A.N. Sakib and A. Stuhlmacher},
+    title = {Leveraging Drinking Water Pumps as Flexible Loads Using Input Convex Neural Networks},
+    booktitle = {Proceedings of the IEEE Power and Energy Society General Meeting (PES GM)},
+    year = {2025},
+    address = {Austin, Texas}
+}
+```
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-SakibPESGM2025')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
 **A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems (Accepted), 2025.**
 <div class="button-group-StuhlmacherTPWRS2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherTPWRS2025','abstractButton-StuhlmacherTPWRS2025')">Abstract</button>
