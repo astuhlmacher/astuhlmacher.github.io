@@ -30,7 +30,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ```bibtex
 @article{StuhlmacherIREP2025,
-    author = {A. Stuhlmacher, A. Kody, and M. Wu},
+    author = {A. Stuhlmacher and A. Kody and M. Wu},
     title = {Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility},
     journal = {Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control},
     year = {2025},
@@ -107,7 +107,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ```bibtex
 @article{StuhlmacherTPWRS2025,
-    author = {A. Stuhlmacher, S. Guikema, and J. L. Mathieu},
+    author = {A. Stuhlmacher and S. Guikema and J. L. Mathieu},
     title = {Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation},
     journal = {IEEE Transactions on Power Systems},
     year = {2025}
@@ -236,10 +236,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <div id="bibtex-StuhlmacherFnT2023" >
 
 ```bibtex
-@inproceedings{StuhlmacherFnT2023,
+@article{StuhlmacherFnT2023,
     author = {A. Stuhlmacher and C. Ten and L. Dilworth and Y. Tang},
     title = {Operational Planning for Emerging Distribution Systems: A Unique Perspective on Grid Expansion},
-    journal = {Foundations and Trends\textregistered{} in Electric Energy Systems},
+    journal = {Foundations and Trends in Electric Energy Systems},
     volume = {7},
     number = {2},
     pages = {63--164},
