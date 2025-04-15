@@ -10,7 +10,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 # 2025
 
-**A. Stuhlmacher, A. Kody, and M. Wu, "Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility", In: Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control, Sorrento, Italy, June 2025 (Under review).**
+**A. Stuhlmacher, A. Kody, and M. Wu, "Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility", In: Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control, Sorrento, Italy, June 2025.**
 <div class="button-group-StuhlmacherIREP2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherIREP2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherIREP2025','abstractButton-StuhlmacherIREP2025')">Abstract</button>
     <button id="citationButton-StuhlmacherIREP2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherIREP2025', 'citationButton-StuhlmacherIREP2025')">Citation</button>
@@ -51,7 +51,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </div>
 
 
-**A.N. Sakib and A. Stuhlmacher,  "Leveraging Drinking Water Pumps as Flexible Loads Using Input Convex Neural Networks", In: Proceedings of the IEEE Power and Energy Society General Meeting (PES GM), Austin, Texas, July 2025 (Accepted).**
+**A.N. Sakib and A. Stuhlmacher,  "Leveraging Drinking Water Pumps as Flexible Loads Using Input Convex Neural Networks", In: Proceedings of the IEEE Power and Energy Society General Meeting (PES GM), Austin, Texas, July 2025.**
 <div class="button-group-SakibPESGM2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('abstract-SakibPESGM2025','abstractButton-SakibPESGM2025')">Abstract</button>
     <button id="citationButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('citation-SakibPESGM2025', 'citationButton-SakibPESGM2025')">Citation</button>
@@ -88,7 +88,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     
 </div>
 
-**A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems (Accepted), 2025.**
+**A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems, 2025.**
 <div class="button-group-StuhlmacherTPWRS2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherTPWRS2025','abstractButton-StuhlmacherTPWRS2025')">Abstract</button>
     <button id="citationButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherTPWRS2025', 'citationButton-StuhlmacherTPWRS2025')">Citation</button>
