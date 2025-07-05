@@ -34,7 +34,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     title = {Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility},
     journal = {Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control},
     year = {2025},
-    month = {June},
+    month = {6},
     address = {Sorrento, Italy}
 }
 ```
@@ -51,7 +51,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </div>
 
 
-**A.N. Sakib and A. Stuhlmacher,  "Leveraging Drinking Water Pumps as Flexible Loads Using Input Convex Neural Networks", In: Proceedings of the IEEE Power and Energy Society General Meeting (PES GM), Austin, Texas, July 2025.**
+**A. N. Sakib and A. Stuhlmacher,  "Leveraging Drinking Water Pumps as Flexible Loads Using Input Convex Neural Networks", In: Proceedings of the IEEE Power and Energy Society General Meeting (PES GM), Austin, Texas, July 2025.**
 <div class="button-group-SakibPESGM2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('abstract-SakibPESGM2025','abstractButton-SakibPESGM2025')">Abstract</button>
     <button id="citationButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('citation-SakibPESGM2025', 'citationButton-SakibPESGM2025')">Citation</button>
@@ -127,7 +127,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 **A. Stuhlmacher and J. L. Mathieu,  "Demand Response Potential of Drinking Water Distribution Networks", In: Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS). Waikoloa, Hawaii, January 2025.**
 <center>
-<em> Best paper award for the Electric Energy Systems Track </em>
+<em> :1st_place_medal: Best paper award for the Electric Energy Systems Track </em>
 </center>
 <div class="button-group-StuhlmacherHICSS2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherHICSS2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherHICSS2025','abstractButton-StuhlmacherHICSS2025')">Abstract</button>
@@ -198,7 +198,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     booktitle = {Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS)},
     year = {2024},
     address = {Waikiki, Hawaii},
-    month = {January}
+    month = {1}
 }
 ```
 
@@ -262,7 +262,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <div class="button-group-Stuhlmacher2023" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-Stuhlmacher2023" class="btn btn--research" onclick="toggleDiv('abstract-Stuhlmacher2023','abstractButton-Stuhlmacher2023')">Abstract</button>
     <button id="citationButton-Stuhlmacher2023" class="btn btn--research" onclick="toggleDiv('citation-Stuhlmacher2023', 'citationButton-Stuhlmacher2023')">Citation</button>
-    <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-Seiler-HICSS-2024-Optimal-Agrivoltaics-Operation.pdf" target="_blank">PDF</a>-->
+    <a class="btn btn--research" href="/files/papers/Stuhlmacher-Dissertation-2023.pdf" target="_blank">PDF</a>
     <a class="btn btn--research" target="_blank" href="https://dx.doi.org/10.7302/7426">Link</a>
 </div>
 
@@ -282,7 +282,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     title = {Optimal Scheduling and Control of Uncertain Coupled Power-Water Distribution Networks},
     school = {University of Michigan},
     year = {2023},
-    month = {May}
+    month = {5}
 }
 ```
 
@@ -325,7 +325,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     volume = {212},
     pages = {108491},
     year = {2022},
-    month = {June},
+    month = {6},
     address = {Porto, Portugal}
 }
 ```
@@ -368,7 +368,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     booktitle = {Proceedings of the IREP Symposium on Bulk Power System Dynamics and Control},
     year = {2022},
     address = {Banff, Canada},
-    month = {August}
+    month = {8}
 }
 ```
 
@@ -411,7 +411,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     booktitle = {Proceedings of the Conference on Decision and Control (CDC)},
     pages = {4206--4213},
     year = {2021},
-    month = {December}
+    month = {12}
 }
 ```
 
@@ -500,7 +500,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     volume = {188},
     pages = {106570},
     year = {2020},
-    month = {June}
+    month = {6}
 }
 ```
 
@@ -544,7 +544,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     booktitle = {Proceedings of the North American Power Symposium (NAPS)},
     year = {2019},
     address = {Wichita, KS},
-    month = {October}
+    month = {10}
 }
 ```
 

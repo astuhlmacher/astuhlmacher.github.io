@@ -25,9 +25,18 @@ My research explores the optimization of uncertain distributed energy resources 
 If you are a current undergraduate student at Michigan Tech interested in getting involved in research, please reach out! 
 
 ## Prospective Graduate Students
-I am not currently looking for Ph.D. students to join my research group for the 25-26 academic year. I will update my page when this changes.
+I am not actively looking for graduate students to join my research group for the 25-26 academic year; however, I am always open to working with outstanding graduate students with strong foundations in power systems and math. Please note that I receive many emails asking about graduate studies and it is impossible to answer them all. If you are interested in working with me, please make your email subject line "Joining the Stuhlmacher Research Group" to show me you have read this and include your CV and concise description of your research experience and interests. You can find more information on the ECE Ph.D. program at Michigan Tech <a href="https://www.mtu.edu/ece/graduate/electrical/" target="_blank">here</a>. 
 
 ## About Michigan Tech
-Michigan Tech is located in Houghton, Michigan. Houghton is a small town in the upper peninsula of Michigan with year-round outdoor recreation opportunities. Michigan Tech has a longstanding power systems program, with strong connections to utility companies and industry. A wide range of power system courses are available. For information on the PhD program at Michigan Tech, click <a href="https://www.mtu.edu/gradschool/prospective/" target="_blank">here</a>.
+Michigan Tech is located in Houghton, Michigan. Houghton is a small town in the upper peninsula of Michigan with year-round outdoor recreation opportunities. Michigan Tech has a longstanding power systems program, with strong connections to utility companies and industry. A wide range of power system courses are available. 
 
+<div style="width: 100%; margin: 0 auto; text-align: center;">
+  <img src="/images/copper_harbor.jpg" alt="Fall foliage" title="Fall foliage" style="width: 32%;">
+  <img src="/images/northern_lights2024.jpg" alt="Northern lights" title="Northern lights" style="width: 32%;">
+  <img src="/images/snow_sculpture.jpg" alt="Snow sculpture" title="Snow sculpture" style="width: 32%;">
+  <sub><em>
+    Left: Fall colors in the Keweenaw Peninsula. Middle: Northern lights at McLain State Park. Right: Snow statue created by students during <a href="https://www.mtu.edu/winter-carnival/" target="_blank">Winter Carnival</a> (February 2025).
+  </em></sub>
+</div>
+<br />
 
