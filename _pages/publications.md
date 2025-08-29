@@ -8,19 +8,101 @@ include_scripts: ["/assets/js/toggleDiv.js", "/assets/js/copy_button.js"]
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=usoAHLIAAAAJ&hl" target="_blank">my Google Scholar profile</a>. The PDF files linked on this page are shared in accordance with the copyright policies of the journals and conferences. These PDFs may differ from the hyperlinked official published versions, including variations in formatting and content. 
 
+# 2026
+**A. Stuhlmacher and A. Kody, "Multi-Stage Robust Optimization of a Wastewater Treatment Biogas Generator Participating in Day-Ahead and Real-Time Regulation Markets", In: Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS). Lahaina, Hawaii, January 2026. (Accepted).**
+<div class="button-group-StuhlmacherHICSS2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-StuhlmacherHICSS2026" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherHICSS2026','abstractButton-StuhlmacherHICSS2026')">Abstract</button>
+    <button id="citationButton-StuhlmacherHICSS2026" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherHICSS2026', 'citationButton-StuhlmacherHICSS2026')">Citation</button>
+    <a class="btn btn--research" href="/files/papers/HICSS 2026 - Stuhlmacher and Kody - Multistage Robust Optimization of a wastewater treatment biogas generator participating in DA and RT regulation markets.pdf" target="_blank">PDF</a>
+    <!--<a class="btn btn--research" target="_blank" href="https://hdl.handle.net/10125/10673">Link</a>-->
+</div>
+
+
+<div id="abstract-StuhlmacherHICSS2026" style="display:none">
+    <p>Wastewater treatment plants are large, energy-intensive loads that can be optimally controlled to support grid reliability and reduce operational costs. This paper presents a multi-stage robust optimization framework to control a wastewater treatment plant equipped with a biogas generator and storage tank for participation in California's day-ahead and real-time frequency regulation markets while managing  biogas production and regulation signal uncertainty. We solve for day-ahead regulation capacity in the first stage and real-time regulation capacity over the day as the uncertainty is progressively revealed. We propose affine control policies to determine the real-time regulation capacity based on partial uncertainty realizations. This results in a tractable affinely adjustable robust counterpart. In a case study, we evaluate our proposed approach against a day-ahead-only robust formulation and found that our approach increases regulation capacity provision and lowers operational costs. </p>
+</div>
+
+<div id="citation-StuhlmacherHICSS2026" style="display:none">
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherHICSS2026" >
+
+```bibtex
+@inproceedings{StuhlmacherHICSS2026,
+    author = {A. Stuhlmacher and A. Kody},
+    title = {Multi-Stage Robust Optimization of a Wastewater Treatment Biogas Generator Participating in Day-Ahead and Real-Time Regulation Markets},
+    booktitle = {Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS)},
+    year = {2026},
+    address = {Lahaina, Hawaii},
+    month = {1}
+}
+```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-StuhlmacherHICSS2026')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
 # 2025
 
-**A. Stuhlmacher, A. Kody, and M. Wu, "Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility", In: Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control, Sorrento, Italy, June 2025.**
+**M. Wu and A. Stuhlmacher, "Investigating Agrivoltaic System Design Choices on Shading and Power Production",  In: Proceedings of the North American Power Symposium (NAPS), Hartford, CT, October 2025.**  
+
+<div class="button-group-WuNAPS2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-WuNAPS2025" class="btn btn--research" onclick="toggleDiv('abstract-WuNAPS2025','abstractButton-WuNAPS2025')">Abstract</button>
+    <button id="citationButton-WuNAPS2025" class="btn btn--research" onclick="toggleDiv('citation-WuNAPS2025', 'citationButton-WuNAPS2025')">Citation</button>
+    <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-Seiler-HICSS-2024-Optimal-Agrivoltaics-Operation.pdf" target="_blank">PDF</a>-->
+    <!--<a class="btn btn--research" target="_blank" href="https://doi.org/10.1109/naps46351.2019.9000282">Link</a>-->
+</div>
+
+
+<div id="abstract-WuNAPS2025" style="display:none">
+    Agrivoltaic systems integrate solar photovoltaic (PV) panels and farming on the same land, offering a solution to the competing energy and food land needs by increasing landuse efficiency. System design choices--such as panel spacing, geographic location, PV configuration, and operational control strategies--significantly impact power generation and crop productivity. This work investigates how these choices affect PV power output and the photosynthetically active radiation reaching the field. To achieve this, we model the PV system and shading projections based on solar position and irradiance data. This analysis considers multiple design factors: location, panel spacing, sun-tracking versus anti-tracking control strategies, as well as fixed-tilt, single-axis, and dual-axis PV configurations. In a case study, we evaluate the performance of two test locations using historical weather data over a month. Additionally, we discuss the trade-offs among agrivoltaic design choices and their implications for the electric power grid.
+</div>
+
+<div id="citation-WuNAPS2025" style="display:none">
+<p>Bibtex data:</p>
+       
+<div id="bibtex-WuNAPS2025" >
+
+```bibtex
+@inproceedings{WuNAPS2025,
+    author = {M. Wu and A. Stuhlmacher },
+    title = {Investigating Agrivoltaic System Design Choices on Shading and Power Production},
+    booktitle = {Proceedings of the North American Power Symposium (NAPS)},
+    year = {2025},
+    address = {Hartford, CT},
+    month = {10}
+}
+```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-WuNAPS2025')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+**A. Stuhlmacher, A. Kody, and M. Wu, "Optimizing Biogas Use in Wastewater Treatment Plants For  Demand Flexibility", In: Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control, vol. 43, p. 101825, Sorrento, Italy, June 2025.**
 <div class="button-group-StuhlmacherIREP2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherIREP2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherIREP2025','abstractButton-StuhlmacherIREP2025')">Abstract</button>
     <button id="citationButton-StuhlmacherIREP2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherIREP2025', 'citationButton-StuhlmacherIREP2025')">Citation</button>
     <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-Seiler-HICSS-2024-Optimal-Agrivoltaics-Operation.pdf" target="_blank">PDF</a>-->
     <a class="btn btn--research" target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043307">Preprint Link</a>
+    <a class="btn btn--research" target="_blank" href="https://www.sciencedirect.com/science/article/pii/S2352467725002073">Link</a>
 </div>
 
-
 <div id="abstract-StuhlmacherIREP2025" style="display:none">
-    <p>Wastewater treatment plants are energy-intensive loads with operational flexibility, which has motivated interest in how these plants can support power grid operation through demand flexibility. Since electricity is often the largest single operating cost for wastewater treatment plants, leveraging demand flexibility could offer significant financial benefits.  One approach to reduce and shift the wastewater treatment plant's demand is through the use of biogas, a by-product of anaerobic digestion within the wastewater treatment process. Biogas (composed primarily of methane and carbon dioxide) is a renewable fuel that can be used to produce electricity to offset the plant's demand from the grid. However, many wastewater treatment plants currently flare biogas. The goal of this paper is to determine the optimal use of an on-site biogas storage tank and generator to minimize the costs of a wastewater treatment plant participating in the frequency regulation market. To do this, we formulate the wastewater treatment plant optimization problem subject to biogas and frequency regulation constraints while managing biogas production uncertainty. We solve for the biogas generator schedule and frequency regulation capacity to minimize operational costs. In a case study using data from a California wastewater treatment plant, we demonstrate how our approach can exploit electricity rate structures to reduce electricity costs and  effectively participate in the frequency regulation market. 
+    <p>Wastewater treatment plants are energy-intensive loads with operational flexibility, which has motivated interest in how these plants can support power grid operation through demand flexibility. Since electricity is often the largest single operating cost for wastewater treatment plants, leveraging demand flexibility could offer significant financial benefits.  One approach to reduce and shift the wastewater treatment plant's demand is through the use of biogas, a by-product of anaerobic digestion within the wastewater treatment process. Biogas (composed primarily of methane and carbon dioxide) is a renewable fuel that can be used to produce electricity to offset the plant's demand from the grid. However, many wastewater treatment plants currently flare biogas. The goal of this paper is to determine the optimal use of an on-site biogas storage tank and generator to minimize the costs of a wastewater treatment plant participating in the frequency regulation market. To do this, we formulate the wastewater treatment plant optimization problem subject to biogas and frequency regulation constraints while managing biogas production uncertainty. We solve for the biogas generator schedule and frequency regulation capacity to minimize operational costs. In a case study using data from a California wastewater treatment plant, we demonstrate how our approach can exploit electricity rate structures to reduce electricity costs and  effectively participate in the frequency regulation market. </p>
 </div>
 
 <div id="citation-StuhlmacherIREP2025" style="display:none">
@@ -35,6 +117,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     journal = {Sustainable Energy, Grids and Networks  - Special Issue for the 2025 IREP Symposium on Bulk Power System Dynamics and Control},
     year = {2025},
     month = {6},
+    volume = {43},
+    pages = {101825},
     address = {Sorrento, Italy}
 }
 ```
@@ -88,7 +172,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     
 </div>
 
-**A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems, 2025.**
+**A. Stuhlmacher, S. Guikema, and J. L. Mathieu,  "Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation", In: IEEE Transactions on Power Systems,  vol.
+40, no. 5, pp. 3833 - 3845, 2025.**
 <div class="button-group-StuhlmacherTPWRS2025" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherTPWRS2025','abstractButton-StuhlmacherTPWRS2025')">Abstract</button>
     <button id="citationButton-StuhlmacherTPWRS2025" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherTPWRS2025', 'citationButton-StuhlmacherTPWRS2025')">Citation</button>
@@ -110,6 +195,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     author = {A. Stuhlmacher and S. Guikema and J. L. Mathieu},
     title = {Assessing Power and Water Network Resilience When Water Pumps Provide Frequency Regulation},
     journal = {IEEE Transactions on Power Systems},
+    volume = {40},
+    number = {5},
+    pages = {3833 -- 3845},
     year = {2025}
 }
 ```
