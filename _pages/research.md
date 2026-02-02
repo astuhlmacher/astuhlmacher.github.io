@@ -5,8 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
+## **_Advancing Coordination of Drinking Water and Electric Power Systems for Sustainable Michigan Infrastructure_**
+<a href="https://miresearchuniversities.org/2026/01/michigans-research-universities-unite-to-tackle-states-toughest-water-challenges/" target="_blank">_Research Universities for Michigan (RU4M)_</a> <br />
+_PI, with co-PIs_ <a href="https://engineering.msu.edu/directory/faculty/kronlei2" target="_blank">_Maggie Williams_</a>  _(Michigan State)_
+<a href="https://engineering.msu.edu/directory/faculty/anctilan" target="_blank">_Annick Anctil_</a>  _(Michigan State),_
+<a href="https://mathieu.engin.umich.edu/" target="_blank">_Johanna Mathieu_</a>  _(University of Michigan),_
+<a href="https://cee.engin.umich.edu/people/kerkez-branko/" target="_blank">_Branko Kerkez_</a>  _(University of Michigan),_
+<a href="https://engineering.wayne.edu/profile/ab1421" target="_blank">_Carol Miller_</a>  _(Wayne State), and_
+<a href="https://engineering.wayne.edu/profile/bb4629" target="_blank">_Caisheng Wang_</a>  _(Wayne State)_
+
+Coordinating water and power system operations can reduce energy costs, lower emissions, and improve infrastructure resilience. Because water networks include inherent storage, their pumps can be operated as flexible electric loads, shifting their electricity consumption in time to support the power grid while maintaining reliable water delivery. This scoping project will assess how Michigan water utilities can implement such strategies in practice by combining techno-economic analysis to evaluate feasibility, costs, and infrastructure needs with life-cycle assessment to quantify environmental and energy impacts. This project connects Michigan researchers in power systems, water supply, and economics with water utilities. An outcome of this work includes identifying
+actionable pathways for technology translation and informing statewide planning efforts consistent with the MI Healthy Climate Plan. Results will also help position the team for future external funding opportunities.
+
 ## **_Optimal Demand Response Strategies Using Biogas from Wastewater Treatment_**
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2501727&HistoricalAwards=false" target="_blank">_National Science Foundation (NSF), Award Number 2501727_</a> <br />
+_PI_
 
 This project aims to develop new algorithms and solution approaches to optimize demand response strategies of wastewater treatment plant operators under uncertainty, focusing on the benefits and barriers of using on-site biogas generators in these programs. Wastewater treatment is an energy-intensive process, and biogas produced through anaerobic digestion is often flared but can be used to provide demand response by reducing or shifting the energy consumption of wastewater treatment plants. Increasing demand flexibility will improve power grid reliability, particularly during periods of network stress. This will be achieved by developing an approach for characterizing the variability and uncertainty in wastewater treatment and introducing novel optimization techniques to manage these uncertainties within a demand response scheduling optimization framework. 
 

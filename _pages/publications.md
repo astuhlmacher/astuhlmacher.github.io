@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <button id="abstractButton-StuhlmacherHICSS2026" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherHICSS2026','abstractButton-StuhlmacherHICSS2026')">Abstract</button>
     <button id="citationButton-StuhlmacherHICSS2026" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherHICSS2026', 'citationButton-StuhlmacherHICSS2026')">Citation</button>
     <a class="btn btn--research" href="/files/papers/HICSS 2026 - Stuhlmacher and Kody - Multistage Robust Optimization of a wastewater treatment biogas generator participating in DA and RT regulation markets.pdf" target="_blank">PDF</a>
-    <!--<a class="btn btn--research" target="_blank" href="https://hdl.handle.net/10125/10673">Link</a>-->
+    <a class="btn btn--research" target="_blank" href="https://scholarspace.manoa.hawaii.edu/items/8f127222-f265-4c96-9ab8-c772b6a6dc79">Link</a>
 </div>
 
 
@@ -57,7 +57,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <button id="abstractButton-WuNAPS2025" class="btn btn--research" onclick="toggleDiv('abstract-WuNAPS2025','abstractButton-WuNAPS2025')">Abstract</button>
     <button id="citationButton-WuNAPS2025" class="btn btn--research" onclick="toggleDiv('citation-WuNAPS2025', 'citationButton-WuNAPS2025')">Citation</button>
     <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-Seiler-HICSS-2024-Optimal-Agrivoltaics-Operation.pdf" target="_blank">PDF</a>-->
-    <!--<a class="btn btn--research" target="_blank" href="https://doi.org/10.1109/naps46351.2019.9000282">Link</a>-->
+    <a class="btn btn--research" target="_blank" href="https://ieeexplore.ieee.org/document/11272386">Link</a>
 </div>
 
 
@@ -140,7 +140,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <button id="abstractButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('abstract-SakibPESGM2025','abstractButton-SakibPESGM2025')">Abstract</button>
     <button id="citationButton-SakibPESGM2025" class="btn btn--research" onclick="toggleDiv('citation-SakibPESGM2025', 'citationButton-SakibPESGM2025')">Citation</button>
     <!--<a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-HICSS-2025-WDN_Flexibility_Capacity.pdf" target="_blank">PDF</a>-->
-    <!--<a class="btn btn--research" target="_blank" href="https://ieeexplore.ieee.org/document/10876764">Link</a>-->
+    <a class="btn btn--research" target="_blank" href="https://ieeexplore.ieee.org/document/11225422">Link</a>
 </div>
 
 <div id="abstract-SakibPESGM2025" style="display:none">
