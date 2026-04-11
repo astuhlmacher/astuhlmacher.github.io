@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-Click [here](/files/AnnaStuhlmacher-CV.pdf) to view a PDF version of my CV.
+Click [here](/files/Stuhlmacher_CV.pdf) to view a PDF version of my CV.

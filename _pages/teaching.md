@@ -13,7 +13,7 @@ author_profile: true
 
 
 ### EE 3120: Electrical Energy Systems
-  * Fall 2023, Fall 2024, Spring 2025, Fall 2025, Spring 2026
+  * Fall 2023, Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
   * Course Summary: An overview of the generation and utilization of electrical energy. Covers three-phase circuits, transformers, photovoltaics, batteries, electromechanical energy conversion, and an overview of electric power systems, including economic issues.  
 
 ### EE 5232: Power System Optimization

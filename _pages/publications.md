@@ -8,8 +8,91 @@ include_scripts: ["/assets/js/toggleDiv.js", "/assets/js/copy_button.js"]
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=usoAHLIAAAAJ&hl" target="_blank">my Google Scholar profile</a>. The PDF files linked on this page are shared in accordance with the copyright policies of the journals and conferences. These PDFs may differ from the hyperlinked official published versions, including variations in formatting and content. 
 
+
 # 2026
-**A. Stuhlmacher and A. Kody, "Multi-Stage Robust Optimization of a Wastewater Treatment Biogas Generator Participating in Day-Ahead and Real-Time Regulation Markets", In: Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS). Lahaina, Hawaii, January 2026. (Accepted).**
+
+**A. Stuhlmacher, P. Srisuthankul, J.L. Mathieu, and P. Seiler "A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking", In: (Under Review).**
+<div class="button-group-StuhlmacherMPC2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherMPC2026','abstractButton-StuhlmacherMPC2026')">Abstract</button>
+    <button id="citationButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherMPC2026', 'citationButton-StuhlmacherMPC2026')">Citation</button>
+    <!--<a class="btn btn--research" href="/files/papers/HICSS 2026 - Stuhlmacher and Kody - Multistage Robust Optimization of a wastewater treatment biogas generator participating in DA and RT regulation markets.pdf" target="_blank">PDF</a>-->
+    <a class="btn btn--research" target="_blank" href="https://arxiv.org/abs/2603.22554">Link</a>
+</div>
+
+
+<div id="abstract-StuhlmacherMPC2026" style="display:none">
+    <p>Agrivoltaic systems--photovoltaic (PV) panels installed above agricultural land--have emerged as a promising dual-use solution to address competing land demands for food and energy production. In this paper, we propose a model predictive control (MPC) approach to dual-axis agrivoltaic panel tracking control that dynamically adjusts panel positions in real time to maximize power production and crop yield given solar irradiance and ambient temperature measurements. We apply convex relaxations and shading factor approximations to reformulate the MPC optimization problem as a convex second-order cone program that determines the PV panel position adjustments away from the sun-tracking trajectory. Through case studies, we demonstrate our approach, exploring the Pareto front between i) an approach that maximizes power production without considering crop needs and ii) crop yield with no agrivoltaics. We also conduct a case study exploring the impact of forecast error on MPC performance. We find that dynamically adjusting agrivoltaic panel position helps us actively manage the trade-offs between power production and crop yield, and that active panel control enables the agrivoltaic system to achieve land equivalent ratio values of up to 1.897.  </p>
+</div>
+
+<div id="citation-StuhlmacherMPC2026" style="display:none">
+<p>Bibtex data:</p>
+       
+<div id="bibtex-StuhlmacherMPC2026" >
+
+```bibtex
+@article{StuhlmacherMPC2026,
+    author = {Anna Stuhlmacher and Panupong Srisuthankul and Johanna L. Mathieu and Peter Seiler},
+    title = {A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking},
+    journal = {(Under Review)},
+    year = {2026},
+    note = {arXiv:2603.22554}
+}
+```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-WuPowerUp2026')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+
+**M. Wu and A. Stuhlmacher, "Productive Curtailment in Agrivoltaic Systems under Flexible Interconnection Agreements", In: Proceedings of the 2026 PowerUp Conference. Boulder, Colorado, September 2026. (Accepted).**
+<div class="button-group-WuPowerUp2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('abstract-WuPowerUp2026','abstractButton-WuPowerUp2026')">Abstract</button>
+    <button id="citationButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('citation-WuPowerUp2026', 'citationButton-WuPowerUp2026')">Citation</button>
+    <!--<a class="btn btn--research" href="/files/papers/HICSS 2026 - Stuhlmacher and Kody - Multistage Robust Optimization of a wastewater treatment biogas generator participating in DA and RT regulation markets.pdf" target="_blank">PDF</a>-->
+    <!--<a class="btn btn--research" target="_blank" href="https://scholarspace.manoa.hawaii.edu/items/8f127222-f265-4c96-9ab8-c772b6a6dc79">Link</a>-->
+</div>
+
+
+<div id="abstract-WuPowerUp2026" style="display:none">
+    <p>Flexible interconnection agreements are increasingly used to streamline the distributed generation interconnection process by limiting real power exports and avoiding costly grid upgrades. Agrivoltaic systems--solar photovoltaic (PV) panels installed over agricultural land--can provide added value under these agreements by adjusting the PV panels away from sun tracking while increasing the sunlight available to crops. This technical note investigates the operation of agrivoltaics under flexible interconnection limits and evaluates their impact on both PV energy production and crop outcomes. We formulate an optimization problem that determines the time-varying tilt of a single-axis tracking agrivoltaic system to maximize energy production subject to a real power export limit over an entire growing season. The resulting PV operating schedules are then used to evaluate PV energy production and crop yield. In a case study, we demonstrate that agrivoltaic systems can comply with flexible interconnection agreements through operational adjustments that improve crop yield, distinguishing them from conventional PV systems that rely solely on inverter curtailment. </p>
+</div>
+
+<div id="citation-WuPowerUp2026" style="display:none">
+<p>Bibtex data:</p>
+       
+<div id="bibtex-WuPowerUp2026" >
+
+```bibtex
+@inproceedings{WuPowerUp2026,
+    author = {M. Wu and A. Stuhlmacher},
+    title = {Productive Curtailment in Agrivoltaic Systems under Flexible Interconnection Agreements},
+    booktitle = {Proceedings of the 2026 PowerUp Conference},
+    year = {2026},
+    address = {Boulder, CO},
+    month = {9}
+}
+```
+
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-WuPowerUp2026')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+
+**A. Stuhlmacher and A. Kody, "Multi-Stage Robust Optimization of a Wastewater Treatment Biogas Generator Participating in Day-Ahead and Real-Time Regulation Markets", In: Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS). Lahaina, Hawaii, January 2026.**
 <div class="button-group-StuhlmacherHICSS2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherHICSS2026" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherHICSS2026','abstractButton-StuhlmacherHICSS2026')">Abstract</button>
     <button id="citationButton-StuhlmacherHICSS2026" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherHICSS2026', 'citationButton-StuhlmacherHICSS2026')">Citation</button>
