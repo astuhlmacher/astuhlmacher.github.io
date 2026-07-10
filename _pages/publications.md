@@ -11,17 +11,17 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 # 2026
 
-**A. Stuhlmacher, P. Srisuthankul, J.L. Mathieu, and P. Seiler "A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking", In: (Under Review).**
+**A. Stuhlmacher, P. Srisuthankul, J.L. Mathieu, and P. Seiler "A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking", In: Renewable Energy (Accepted).**
 <div class="button-group-StuhlmacherMPC2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherMPC2026','abstractButton-StuhlmacherMPC2026')">Abstract</button>
     <button id="citationButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherMPC2026', 'citationButton-StuhlmacherMPC2026')">Citation</button>
     <!--<a class="btn btn--research" href="/files/papers/HICSS 2026 - Stuhlmacher and Kody - Multistage Robust Optimization of a wastewater treatment biogas generator participating in DA and RT regulation markets.pdf" target="_blank">PDF</a>-->
-    <a class="btn btn--research" target="_blank" href="https://arxiv.org/abs/2603.22554">Link</a>
+    <a class="btn btn--research" target="_blank" href="https://arxiv.org/abs/2603.22554">ArXiV Link</a>
 </div>
 
 
 <div id="abstract-StuhlmacherMPC2026" style="display:none">
-    <p>Agrivoltaic systems--photovoltaic (PV) panels installed above agricultural land--have emerged as a promising dual-use solution to address competing land demands for food and energy production. In this paper, we propose a model predictive control (MPC) approach to dual-axis agrivoltaic panel tracking control that dynamically adjusts panel positions in real time to maximize power production and crop yield given solar irradiance and ambient temperature measurements. We apply convex relaxations and shading factor approximations to reformulate the MPC optimization problem as a convex second-order cone program that determines the PV panel position adjustments away from the sun-tracking trajectory. Through case studies, we demonstrate our approach, exploring the Pareto front between i) an approach that maximizes power production without considering crop needs and ii) crop yield with no agrivoltaics. We also conduct a case study exploring the impact of forecast error on MPC performance. We find that dynamically adjusting agrivoltaic panel position helps us actively manage the trade-offs between power production and crop yield, and that active panel control enables the agrivoltaic system to achieve land equivalent ratio values of up to 1.897.  </p>
+    <p>Agrivoltaic systems--photovoltaic panels installed above agricultural land--have emerged as a promising dual-use solution to address competing land demands for food and energy production. In this paper, we propose a model predictive control  approach to dual-axis agrivoltaic panel tracking control that dynamically adjusts panel positions in real time to maximize power production and crop yield given solar irradiance and ambient temperature measurements. We apply convex relaxations and shading factor approximations to reformulate the  optimization problem as a convex second-order cone program that determines the photovoltaic panel position adjustments away from the sun-tracking trajectory. Through case studies, we demonstrate our approach, exploring the Pareto front between i) an approach that maximizes power production without considering crop needs and ii) crop yield with no agrivoltaics. We also conduct a case study exploring the impact of forecast error on model predictive control performance. We find that dynamically adjusting agrivoltaic panel position helps us actively manage the trade-offs between power production and crop yield, and that active panel control enables the agrivoltaic system to achieve land equivalent ratio values of up to 1.897 for lettuce and 1.689 for tomatoes.   </p>
 </div>
 
 <div id="citation-StuhlmacherMPC2026" style="display:none">
@@ -33,7 +33,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 @article{StuhlmacherMPC2026,
     author = {Anna Stuhlmacher and Panupong Srisuthankul and Johanna L. Mathieu and Peter Seiler},
     title = {A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking},
-    journal = {(Under Review)},
+    journal = {Renewable Energy (Accepted)},
     year = {2026},
     note = {arXiv:2603.22554}
 }
@@ -42,7 +42,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </div>
     <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
         <button class="btn btn--success copy-button" 
-            onclick="copyBibtex('bibtex-WuPowerUp2026')" 
+            onclick="copyBibtex('bibtex-StuhlmacherMPC2026')" 
             style="position: absolute; top: 0px; right: 5px;">
             Copy
         </button>
@@ -51,11 +51,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </div>
 
 
+
 **M. Wu and A. Stuhlmacher, "Productive Curtailment in Agrivoltaic Systems under Flexible Interconnection Agreements", In: Proceedings of the 2026 PowerUp Conference. Boulder, Colorado, September 2026. (Accepted).**
 <div class="button-group-WuPowerUp2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('abstract-WuPowerUp2026','abstractButton-WuPowerUp2026')">Abstract</button>
     <button id="citationButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('citation-WuPowerUp2026', 'citationButton-WuPowerUp2026')">Citation</button>
-    <!--<a class="btn btn--research" href="/files/papers/HICSS 2026 - Stuhlmacher and Kody - Multistage Robust Optimization of a wastewater treatment biogas generator participating in DA and RT regulation markets.pdf" target="_blank">PDF</a>-->
+    <a class="btn btn--research" href="/files/papers/PowerUp 2026 - Wu and Stuhlmacher - Productive Curtailment of Agrivoltaics under Flexible Interconnection Agreements.pdf" target="_blank">PDF</a>
     <!--<a class="btn btn--research" target="_blank" href="https://scholarspace.manoa.hawaii.edu/items/8f127222-f265-4c96-9ab8-c772b6a6dc79">Link</a>-->
 </div>
 
@@ -349,7 +350,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <button id="abstractButton-StuhlmacherHICSS2024" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherHICSS2024','abstractButton-StuhlmacherHICSS2024')">Abstract</button>
     <button id="citationButton-StuhlmacherHICSS2024" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherHICSS2024', 'citationButton-StuhlmacherHICSS2024')">Citation</button>
     <a class="btn btn--research" href="/files/papers/Stuhlmacher-Mathieu-Seiler-HICSS-2024-Optimal-Agrivoltaics-Operation.pdf" target="_blank">PDF</a>
-    <a class="btn btn--research" target="_blank" href="https://hdl.handle.net/10125/10673">Link</a>
+    <a class="btn btn--research" target="_blank" href="https://doi.org/10.24251/HICSS.2024.352">Link</a>
 </div>
 
 
