@@ -11,12 +11,121 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 # 2026
 
-**A. Stuhlmacher, P. Srisuthankul, J.L. Mathieu, and P. Seiler "A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking", In: Renewable Energy (Accepted).**
+**M. Wu and A. Stuhlmacher, "Optimal Sizing and Dispatch of Biogas Storage and CHP for Demand Response in Wastewater Treatment Plants", (Under Review).**
+<div class="button-group-WuCHP2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-WuCHP2026" class="btn btn--research" onclick="toggleDiv('abstract-WuCHP2026','abstractButton-WuCHP2026')">Abstract</button>
+    <!--<button id="citationButton-WuCHP2026" class="btn btn--research" onclick="toggleDiv('citation-WuCHP2026', 'citationButton-WuCHP2026')">Citation</button>-->
+    <!--<a class="btn btn--research" target="_blank" href="LINK">Preprint</a>-->
+    <!--<a class="btn btn--research" target="_blank" href="LINK">PDF</a>-->
+</div>
+
+<div id="abstract-WuCHP2026" style="display:none">
+    <p>Wastewater treatment plants can utilize biogas in on-site combined heat and power (CHP) systems to offset electricity and natural gas consumption, but CHP systems are often limited to larger facilities due to economic considerations. However, existing CHP sizing guidelines do not consider the operational flexibility provided by biogas storage or its ability to respond to time-varying electricity prices or other demand response signals.  This paper develops optimization frameworks for the operation and design of wastewater treatment CHP, and biogas storage under time-varying electricity prices. The proposed frameworks determine the optimal CHP and biogas storage capacities and dispatch schedules. In a realistic case study, we find that CHP reduces annual operating costs by 58.6%, while biogas storage provides an additional 12.4% reduction compared to the CHP-only case. Additionally, we find that load-shifting opportunities alter both technology selection and optimal sizing.</p>
+</div>
+
+<div id="citation-WuCHP2026" style="display:none">
+<p>Bibtex data:</p>
+
+<div id="bibtex-WuCHP2026">
+
+```bibtex
+@article{WuCHP2026,
+    author = {Marcus Wu and Anna Stuhlmacher},
+    title = {Optimal Sizing and Dispatch of Biogas Storage and CHP for Demand Response in Wastewater Treatment Plants},
+    note = {Under Review},
+    year = {2026}
+}
+```
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-WuCHP2026')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+**G. E. Myers and A. Stuhlmacher, "Three-Phase Optimal Operation of Soft Open Points with Integrated Energy Storage", (Under Review).**
+<div class="button-group-MyersESOP2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-MyersESOP2026" class="btn btn--research" onclick="toggleDiv('abstract-MyersESOP2026','abstractButton-MyersESOP2026')">Abstract</button>
+    <!--<button id="citationButton-MyersESOP2026" class="btn btn--research" onclick="toggleDiv('citation-MyersESOP2026', 'citationButton-MyersESOP2026')">Citation</button>-->
+    <!--<a class="btn btn--research" target="_blank" href="LINK">Preprint</a>-->
+    <!--<a class="btn btn--research" target="_blank" href="LINK">PDF</a>-->
+</div>
+
+<div id="abstract-MyersESOP2026" style="display:none">
+    <p>Soft open points (SOPs) are a promising technology for improving distribution system operation by enabling controllable real and reactive power exchange between feeders. Recent work has shown that integrating battery energy storage at the SOP DC link can provide additional operational flexibility. However, existing studies on SOPs with integrated energy storage have focused on balanced distribution network representations, which do not capture the unbalanced nature of distribution systems. This paper presents a three-phase optimal operation framework for SOPs with integrated energy storage to minimize voltage unbalance. The formulation determines SOP power injections and battery schedules while accounting for three-phase unbalanced power flow, SOP, and battery constraints. The problem is reformulated as a mixed-integer second-order cone program using power flow approximations and convex relaxations. A case study demonstrates that SOPs integrated with storage reduce voltage unbalance by approximately 70% relative to the base case, with minor improvements compared to SOP-only configurations.</p>
+</div>
+
+<div id="citation-MyersESOP2026" style="display:none">
+<p>Bibtex data:</p>
+
+<div id="bibtex-MyersESOP2026">
+
+```bibtex
+@article{MyersESOP2026,
+    author = {Genevieve E. Myers and Anna Stuhlmacher},
+    title = {Three-Phase Optimal Operation of Soft Open Points with Integrated Energy Storage},
+    note = {Under Review},
+    year = {2026}
+}
+```
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-MyersESOP2026')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+**A. N. Sakib, C. Crozier, and A. Stuhlmacher, "Assessing the Impact of Electricity Tariff Design on Water Distribution Network Flexibility", (Under Review).**
+<div class="button-group-SakibTariff2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
+    <button id="abstractButton-SakibTariff2026" class="btn btn--research" onclick="toggleDiv('abstract-SakibTariff2026','abstractButton-SakibTariff2026')">Abstract</button>
+    <!--<button id="citationButton-SakibTariff2026" class="btn btn--research" onclick="toggleDiv('citation-SakibTariff2026', 'citationButton-SakibTariff2026')">Citation</button>-->
+    <!--<a class="btn btn--research" target="_blank" href="LINK">Preprint</a>-->
+    <!--<a class="btn btn--research" target="_blank" href="LINK">PDF</a>-->
+</div>
+
+<div id="abstract-SakibTariff2026" style="display:none">
+    <p>Water distribution systems can provide demand-side flexibility to the power grid. By shifting pumping in time while meeting hydraulic requirements, water utilities can respond to electricity price signals and reduce operating costs. However, the extent to which this flexibility is realized depends on the electricity tariff structure. This paper investigates how time-of-use energy rates and demand charges influence water pumping. An optimal water pumping problem is formulated to minimize electricity costs subject to the hydraulic constraints. A sensitivity analysis is performed to evaluate the impact of time-of-use energy rates, on-peak period duration, and demand charge prices on pump scheduling and load-shifting behavior. We find that time-of-use pricing provides stronger incentives for load shifting than demand charges, achieving up to 100% peak-period energy reductions and 400 kWh of shifted energy for TOU ratios greater than 1.3, whereas demand charges primarily encourage flatter pumping and yield substantially smaller increases in load shifting.</p>
+</div>
+
+<div id="citation-SakibTariff2026" style="display:none">
+<p>Bibtex data:</p>
+
+<div id="bibtex-SakibTariff2026">
+
+```bibtex
+@article{SakibTariff2026,
+    author = {Aan Nazmus Sakib and Constance Crozier and Anna Stuhlmacher},
+    title = {Assessing the Impact of Electricity Tariff Design on Water Distribution Network Flexibility},
+    note = {Under Review},
+    year = {2026}
+}
+```
+</div>
+    <div style="position: relative; margin-top: 0px; margin-bottom: 30px; padding-bottom: 15px;">
+        <button class="btn btn--success copy-button" 
+            onclick="copyBibtex('bibtex-SakibTariff2026')" 
+            style="position: absolute; top: 0px; right: 5px;">
+            Copy
+        </button>
+    </div>  
+    
+</div>
+
+**A. Stuhlmacher, P. Srisuthankul, J.L. Mathieu, and P. Seiler "A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking", In: Renewable Energy, vol. 274, p. 126155, October 2026.**
 <div class="button-group-StuhlmacherMPC2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherMPC2026','abstractButton-StuhlmacherMPC2026')">Abstract</button>
     <button id="citationButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherMPC2026', 'citationButton-StuhlmacherMPC2026')">Citation</button>
     <!--<a class="btn btn--research" href="/files/papers/HICSS 2026 - Stuhlmacher and Kody - Multistage Robust Optimization of a wastewater treatment biogas generator participating in DA and RT regulation markets.pdf" target="_blank">PDF</a>-->
-    <a class="btn btn--research" target="_blank" href="https://arxiv.org/abs/2603.22554">ArXiV Link</a>
+    <a class="btn btn--research" target="_blank" href="https://arxiv.org/abs/2603.22554">ArXiV Preprint</a>
+    <a class="btn btn--research" target="_blank" href="https://doi.org/10.1016/j.renene.2026.126155">Link</a>
 </div>
 
 
@@ -33,9 +142,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 @article{StuhlmacherMPC2026,
     author = {Anna Stuhlmacher and Panupong Srisuthankul and Johanna L. Mathieu and Peter Seiler},
     title = {A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking},
-    journal = {Renewable Energy (Accepted)},
+    journal = {Renewable Energy},
     year = {2026},
-    note = {arXiv:2603.22554}
+    number = {274}, 
+    pages = {126155}
 }
 ```
 
@@ -52,12 +162,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 
-**M. Wu and A. Stuhlmacher, "Productive Curtailment in Agrivoltaic Systems under Flexible Interconnection Agreements", In: Proceedings of the 2026 PowerUp Conference. Boulder, Colorado, September 2026. (Accepted).**
+**M. Wu and A. Stuhlmacher, "Productive Curtailment in Agrivoltaic Systems under Flexible Interconnection Agreements", In: Proceedings of the 2026 PowerUp Conference. Boulder, Colorado, September 2026. **
 <div class="button-group-WuPowerUp2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('abstract-WuPowerUp2026','abstractButton-WuPowerUp2026')">Abstract</button>
     <button id="citationButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('citation-WuPowerUp2026', 'citationButton-WuPowerUp2026')">Citation</button>
     <a class="btn btn--research" href="/files/papers/PowerUp 2026 - Wu and Stuhlmacher - Productive Curtailment of Agrivoltaics under Flexible Interconnection Agreements.pdf" target="_blank">PDF</a>
-    <!--<a class="btn btn--research" target="_blank" href="https://scholarspace.manoa.hawaii.edu/items/8f127222-f265-4c96-9ab8-c772b6a6dc79">Link</a>-->
+    <a class="btn btn--research" target="_blank" href="https://arxiv.org/abs/2607.10040">Link</a>
 </div>
 
 
