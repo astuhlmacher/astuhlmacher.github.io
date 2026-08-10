@@ -11,16 +11,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 # 2026
 
-**M. Wu and A. Stuhlmacher, "Optimal Sizing and Dispatch of Biogas Storage and CHP for Demand Response in Wastewater Treatment Plants", (Under Review).**
+**M. Wu and A. Stuhlmacher, "Optimal Sizing and Dispatch of Biogas Storage and CHP for Demand Response in Wastewater Treatment Plants", In: Proceedings of the North American Power Symposium (NAPS). Houghton, Michigan, October 2026.**
 <div class="button-group-WuCHP2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-WuCHP2026" class="btn btn--research" onclick="toggleDiv('abstract-WuCHP2026','abstractButton-WuCHP2026')">Abstract</button>
-    <!--<button id="citationButton-WuCHP2026" class="btn btn--research" onclick="toggleDiv('citation-WuCHP2026', 'citationButton-WuCHP2026')">Citation</button>-->
+    <button id="citationButton-WuCHP2026" class="btn btn--research" onclick="toggleDiv('citation-WuCHP2026', 'citationButton-WuCHP2026')">Citation</button>
     <!--<a class="btn btn--research" target="_blank" href="LINK">Preprint</a>-->
     <!--<a class="btn btn--research" target="_blank" href="LINK">PDF</a>-->
 </div>
 
 <div id="abstract-WuCHP2026" style="display:none">
-    <p>Wastewater treatment plants can utilize biogas in on-site combined heat and power (CHP) systems to offset electricity and natural gas consumption, but CHP systems are often limited to larger facilities due to economic considerations. However, existing CHP sizing guidelines do not consider the operational flexibility provided by biogas storage or its ability to respond to time-varying electricity prices or other demand response signals.  This paper develops optimization frameworks for the operation and design of wastewater treatment CHP, and biogas storage under time-varying electricity prices. The proposed frameworks determine the optimal CHP and biogas storage capacities and dispatch schedules. In a realistic case study, we find that CHP reduces annual operating costs by 58.6%, while biogas storage provides an additional 12.4% reduction compared to the CHP-only case. Additionally, we find that load-shifting opportunities alter both technology selection and optimal sizing.</p>
+    <p>Wastewater treatment plants can utilize biogas in on-site combined heat and power (CHP) systems to offset electricity and natural gas consumption, but CHP systems are often limited to larger facilities due to economic considerations. However, existing CHP sizing guidelines do not consider the operational flexibility provided by biogas storage or its ability to respond to time-varying electricity prices or other demand response signals.  This paper develops optimization frameworks for the operation and design of wastewater treatment CHP and biogas storage under time-varying electricity prices. The proposed frameworks determine the optimal CHP and biogas storage capacities and dispatch schedules. In a realistic case study, we find that CHP reduces annual operating costs by 58.6%, while biogas storage provides an additional 12.4% reduction compared to the CHP-only case. Additionally, we find that load-shifting opportunities alter both technology selection and optimal sizing.</p>
 </div>
 
 <div id="citation-WuCHP2026" style="display:none">
@@ -29,10 +29,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <div id="bibtex-WuCHP2026">
 
 ```bibtex
-@article{WuCHP2026,
+@inproceedings{WuCHP2026,
     author = {Marcus Wu and Anna Stuhlmacher},
     title = {Optimal Sizing and Dispatch of Biogas Storage and CHP for Demand Response in Wastewater Treatment Plants},
-    note = {Under Review},
+    booktitle = {Proceedings of the North American Power Symposium (NAPS)},
+    address = {Houghton, MI},
+    month = {10},
     year = {2026}
 }
 ```
@@ -47,10 +49,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     
 </div>
 
-**G. E. Myers and A. Stuhlmacher, "Three-Phase Optimal Operation of Soft Open Points with Integrated Energy Storage", (Under Review).**
+**G. E. Myers and A. Stuhlmacher, "Three-Phase Optimal Operation of Soft Open Points with Integrated Energy Storage",  In: Proceedings of the North American Power Symposium (NAPS). Houghton, Michigan, October 2026.**
 <div class="button-group-MyersESOP2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-MyersESOP2026" class="btn btn--research" onclick="toggleDiv('abstract-MyersESOP2026','abstractButton-MyersESOP2026')">Abstract</button>
-    <!--<button id="citationButton-MyersESOP2026" class="btn btn--research" onclick="toggleDiv('citation-MyersESOP2026', 'citationButton-MyersESOP2026')">Citation</button>-->
+    <button id="citationButton-MyersESOP2026" class="btn btn--research" onclick="toggleDiv('citation-MyersESOP2026', 'citationButton-MyersESOP2026')">Citation</button>
     <!--<a class="btn btn--research" target="_blank" href="LINK">Preprint</a>-->
     <!--<a class="btn btn--research" target="_blank" href="LINK">PDF</a>-->
 </div>
@@ -65,10 +67,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <div id="bibtex-MyersESOP2026">
 
 ```bibtex
-@article{MyersESOP2026,
+@inproceedings{MyersESOP2026,
     author = {Genevieve E. Myers and Anna Stuhlmacher},
     title = {Three-Phase Optimal Operation of Soft Open Points with Integrated Energy Storage},
-    note = {Under Review},
+    booktitle = {Proceedings of the North American Power Symposium (NAPS)},
+    address = {Houghton, MI},
+    month = {10},
     year = {2026}
 }
 ```
@@ -83,10 +87,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     
 </div>
 
-**A. N. Sakib, C. Crozier, and A. Stuhlmacher, "Assessing the Impact of Electricity Tariff Design on Water Distribution Network Flexibility", (Under Review).**
+**A. N. Sakib, C. Crozier, and A. Stuhlmacher, "Assessing the Impact of Electricity Tariff Design on Water Distribution Network Flexibility",  In: Proceedings of the North American Power Symposium (NAPS). Houghton, Michigan, October 2026.**
 <div class="button-group-SakibTariff2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-SakibTariff2026" class="btn btn--research" onclick="toggleDiv('abstract-SakibTariff2026','abstractButton-SakibTariff2026')">Abstract</button>
-    <!--<button id="citationButton-SakibTariff2026" class="btn btn--research" onclick="toggleDiv('citation-SakibTariff2026', 'citationButton-SakibTariff2026')">Citation</button>-->
+    <button id="citationButton-SakibTariff2026" class="btn btn--research" onclick="toggleDiv('citation-SakibTariff2026', 'citationButton-SakibTariff2026')">Citation</button>
     <!--<a class="btn btn--research" target="_blank" href="LINK">Preprint</a>-->
     <!--<a class="btn btn--research" target="_blank" href="LINK">PDF</a>-->
 </div>
@@ -101,10 +105,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <div id="bibtex-SakibTariff2026">
 
 ```bibtex
-@article{SakibTariff2026,
+@inproceedings{SakibTariff2026,
     author = {Aan Nazmus Sakib and Constance Crozier and Anna Stuhlmacher},
     title = {Assessing the Impact of Electricity Tariff Design on Water Distribution Network Flexibility},
-    note = {Under Review},
+    booktitle = {Proceedings of the North American Power Symposium (NAPS)},
+    address = {Houghton, MI},
+    month = {10},
     year = {2026}
 }
 ```
@@ -119,7 +125,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     
 </div>
 
-**A. Stuhlmacher, P. Srisuthankul, J.L. Mathieu, and P. Seiler "A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking", In: Renewable Energy, vol. 274, p. 126155, October 2026.**
+**A. Stuhlmacher, P. Srisuthankul, J.L. Mathieu, and P. Seiler, "A Model Predictive Control Approach to Dual-Axis Agrivoltaic Panel Tracking", In: Renewable Energy, vol. 274, p. 126155, October 2026.**
 <div class="button-group-StuhlmacherMPC2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('abstract-StuhlmacherMPC2026','abstractButton-StuhlmacherMPC2026')">Abstract</button>
     <button id="citationButton-StuhlmacherMPC2026" class="btn btn--research" onclick="toggleDiv('citation-StuhlmacherMPC2026', 'citationButton-StuhlmacherMPC2026')">Citation</button>
@@ -162,7 +168,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 
-**M. Wu and A. Stuhlmacher, "Productive Curtailment in Agrivoltaic Systems under Flexible Interconnection Agreements", In: Proceedings of the 2026 PowerUp Conference. Boulder, Colorado, September 2026. **
+**M. Wu and A. Stuhlmacher, "Productive Curtailment in Agrivoltaic Systems under Flexible Interconnection Agreements", In: Proceedings of the 2026 PowerUp Conference. Boulder, Colorado, September 2026.**
 <div class="button-group-WuPowerUp2026" style="display: flex; gap: 10px; text-align: center; justify-content: center; ">
     <button id="abstractButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('abstract-WuPowerUp2026','abstractButton-WuPowerUp2026')">Abstract</button>
     <button id="citationButton-WuPowerUp2026" class="btn btn--research" onclick="toggleDiv('citation-WuPowerUp2026', 'citationButton-WuPowerUp2026')">Citation</button>
